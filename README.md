@@ -1,5 +1,4 @@
 # Green Hippo Interview Coding Challenges
-## About
 For my application process at Green Hippo I went through a two stage interview. For each stage I was given a programming challenge to complete within a set time limit. These were my attempts to both the challenges at each stage of the interview.
 
 ## Stage One Challenge
